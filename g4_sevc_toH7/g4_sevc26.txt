@@ -1,0 +1,64 @@
+Configuration	g4_sevc26
+STM32CubeMX 	6.18.1
+Date	09/16/2026
+MCU	STM32G491RETx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+FDCAN1	Activated	FDCAN1_RX	PA11
+FDCAN1	Activated	FDCAN1_TX	PA12
+SYS	Serial Wire	SYS_JTCK-SWCLK	PA14
+SYS	Serial Wire	SYS_JTMS-SWDIO	PA13
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+SYS	Dead Battery Signals disabled	SYS_VS_DBSignals	VP_SYS_VS_DBSignals
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+45	PA11	FDCAN1_RX	
+46	PA12	FDCAN1_TX	
+49	PA13	SYS_JTMS-SWDIO	
+50	PA14	SYS_JTCK-SWCLK	
+PERIPHERALS	MODES	FUNCTIONS	PINS
+FDCAN1	Activated	FDCAN1_RX	PA11
+FDCAN1	Activated	FDCAN1_TX	PA12
+SYS	Serial Wire	SYS_JTCK-SWCLK	PA14
+SYS	Serial Wire	SYS_JTMS-SWDIO	PA13
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+SYS	Dead Battery Signals disabled	SYS_VS_DBSignals	VP_SYS_VS_DBSignals
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+45	PA11	FDCAN1_RX	
+46	PA12	FDCAN1_TX	
+49	PA13	SYS_JTMS-SWDIO	
+50	PA14	SYS_JTCK-SWCLK	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : g4_sevc26
+Project Folder : C:\Users\khunt\OneDrive\Documents\g4_sevc26
+Toolchain / IDE : EWARM V8.50
+Firmware Package Name and Version : STM32Cube FW_G4 V1.6.3
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy all used libraries into the project folder
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+

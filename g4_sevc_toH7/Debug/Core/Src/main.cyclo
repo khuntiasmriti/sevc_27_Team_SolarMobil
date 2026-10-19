@@ -1,0 +1,7 @@
+../Core/Src/main.c:40:5:main	3
+../Core/Src/main.c:79:6:SystemClock_Config	3
+../Core/Src/main.c:123:13:MX_FDCAN1_Init	2
+../Core/Src/main.c:157:13:FDCAN_ConfigureTransmitter	1
+../Core/Src/main.c:166:13:FDCAN_TransmitData	4
+../Core/Src/main.c:219:13:MX_GPIO_Init	1
+../Core/Src/main.c:227:6:Error_Handler	1
