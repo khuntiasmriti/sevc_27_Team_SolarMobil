@@ -1,0 +1,5 @@
+../Core/Src/bms_daly.c:12:16:DALY_Checksum	2
+../Core/Src/bms_daly.c:22:16:DALY_ReadPackMeasurements	8
+../Core/Src/bms_daly.c:67:6:BMS_Init	1
+../Core/Src/bms_daly.c:72:6:BMS_Poll	2
+../Core/Src/bms_daly.c:82:19:BMS_GetData	1

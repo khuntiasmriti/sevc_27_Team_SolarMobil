@@ -1,0 +1,5 @@
+../Core/Src/bms_daly.c:12:16:DALY_Checksum	24	static
+../Core/Src/bms_daly.c:22:16:DALY_ReadPackMeasurements	32	static
+../Core/Src/bms_daly.c:67:6:BMS_Init	8	static
+../Core/Src/bms_daly.c:72:6:BMS_Poll	16	static
+../Core/Src/bms_daly.c:82:19:BMS_GetData	4	static
